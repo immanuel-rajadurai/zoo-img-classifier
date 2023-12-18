@@ -18,6 +18,8 @@ Here are a few default images
 
 ## Instructions
 
+*NOTE: Before running, add your OpenAI key to the `api_key` variable on line 5 of api_call.py 
+
 1) Add the image of your animal to the `animal_images` folder
 
 2) Import the `ImageRec` class
